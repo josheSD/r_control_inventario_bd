@@ -1,0 +1,4 @@
+Host: inventariosrv.database.windows.net
+Initial Database: master
+User Name: adminsql
+Password: J0sheSD+@
